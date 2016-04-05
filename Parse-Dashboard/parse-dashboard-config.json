@@ -1,19 +1,19 @@
 {
   "apps": [
     {
-      "serverURL": "http://geronimo-dashboard.com/app1",
+      "serverURL": "http://geronimo-parse.herokuapp.com/app1",
       "appId": "APPLICATION_ID",
       "masterKey": "myMasterKey",
       "appName": "Local app 1"
     },
     {
-      "serverURL": "http://geronimo-dashboard.com/app2",
+      "serverURL": "http://geronimo-parse.herokuapp.com/app2",
       "appId": "APPLICATION_ID2",
       "masterKey": "myMasterKey",
-      "appName": "Local app 2"
+      "appName": "app2"
     },
     {
-      "serverURL": "http://geronimo-dashboard.com/app3",
+      "serverURL": "http://geronimo-parse.herokuapp.com/app3",
       "appId": "APPLICATION_ID3",
       "masterKey": "myMasterKey",
       "appName": "Local app 3"
