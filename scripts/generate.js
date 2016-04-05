@@ -8,7 +8,7 @@
  */
 
 'use strict';
-
+console.log('aici');
 const fs = require('fs');
 const path = require('path');
 
